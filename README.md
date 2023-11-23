@@ -1,3 +1,10 @@
+## Changes
+
+This is a fork of the original. Additions:
+- Added v1 version that uses low profile Kailh choc hot swap sockets compatible
+  with both v1 and v2 switches
+- Added v1 version that uses Kailh MX hot swap sockets
+
 <p align="center">
 <img src="img/redox-logo.png" alt="Redox logo" width="600"/>
 <img src="img/qmk-badge-dark.png" alt="QMK" width="145"/>
@@ -16,9 +23,6 @@
 
 ---
 
-## Changelog
-
-- Change MX sockets into Kailh V1/V2 hotswap sockets.
 
 The Redox project is an open-source, [QMK (Quantum Mechanical Keyboard Firmware)](https://github.com/qmk/qmk_firmware) powered, ergonomic split mechanical keyboard. This repository will be used to share information about the project and instruction on how to use and assemble the Redox keyboard.
 
